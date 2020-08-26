@@ -3,8 +3,6 @@ Repositorio com o desafio senior.
 
 ### base de dados: sms_senior.csv
 
-### artigo : artigo.pdf
-
 ### notebook: senior_desafio.ipynb
 
 ### Metodos:
@@ -25,7 +23,7 @@ Repositorio com o desafio senior.
    * Output: Metricas de avaliacao, tais como, recall, acuracia, F1 Score, Matriz de Confusao.
  
  
-
+### artigo : artigo.pdf
 
 
 
