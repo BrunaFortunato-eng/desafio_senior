@@ -1,7 +1,13 @@
 # Desafio Senior - Exercício Pesquisador 2020¶
 Repositorio com o desafio senior.
 
-Metodos:
+### base de dados: sms_senior.csv
+
+### artigo : artigo.pdf
+
+### notebook: senior_desafio.ipynb
+
+### Metodos:
 * inicializa_dataset(dataset_path) : 
    * Recebe como entrada dataset_path, ou seja, o diretorio no qual se encontra a base em csv. 
    * Output: Grafico em WordCloud.
